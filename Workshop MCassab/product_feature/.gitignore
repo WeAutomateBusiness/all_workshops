@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Diretórios de build
+build/
+dist/
+*.egg-info/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Caso você use variações:
+.env
